@@ -1,0 +1,40 @@
+PyQt6==6.4.2
+sqlalchemy==2.0.19
+mysqlclient==2.1.1
+python-dotenv==1.0.0
+bcrypt==4.0.1
+pytesseract==0.3.10
+pillow==10.0.0
+python-docx==0.8.11
+pypdf2==3.0.1
+ollama==0.1.2
+transformers==4.33.2
+boto3==1.28.62
+requests==2.31.0
+pymongo==4.5.0
+motor==3.1.1  # Async MongoDB driver
+dnspython==2.4.2
+# Core
+PyQt6==6.4.2
+python-dotenv==1.0.0
+
+# Database
+sqlalchemy==2.0.15
+pymongo==4.3.3
+psycopg2-binary==2.9.6
+
+# Security
+passlib==1.7.4
+python-jose==3.3.0
+cryptography==39.0.1
+
+# Utilities
+python-magic==0.4.27
+pytesseract==0.3.10
+pdfplumber==0.8.0
+python-docx==0.8.11
+openpyxl==3.1.2
+
+# AI/ML (optional)
+sentence-transformers==2.2.2
+spacy==3.5.0
